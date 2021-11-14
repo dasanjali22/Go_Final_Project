@@ -1,3 +1,8 @@
+//# Go_Final_Project
+// Parallel Sorting of Enumeration and Merge Sort using Channels and Memory Sharing
+// Authors
+// "A1 Level" Anjali K Das (21124701)  and Sruthi Nivetha Kennedy (21140693)
+
 package main
 
 import (
